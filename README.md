@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Rafy - aka [Muhamad Rafy Ramadhan] 👋
+## About me:
+- 🔭 I’m currently studying at Universitas Singaperbangsa Karawang
+- 💬 Ask me about anything
+- 📫 How to reach me: FyyyyAYEE27@gmail.com
 
-<!--
-**RafyR27/RafyR27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education:
 
-Here are some ideas to get you started:
+#### 1. [SMAN 1 Karawang](https://www.instagram.com/smansakarawang/) | MIPA | Karawang `2021-2024`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+
+<img align="left" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" style="padding-right:10px;" />
+<br />
+<br />
+
+---
+### Connect with me:
+
+[![website](./img/instagram-light.svg)](https://instagram.com/rafyr27#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/rafyr27#gh-dark-mode-only)
+
