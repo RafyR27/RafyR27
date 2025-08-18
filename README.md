@@ -11,11 +11,11 @@
 ### Languages and Tools:
 
 <img align="left" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" style="padding-right:10px;" />
-<img align="left" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="C++" width="30px" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" style="padding-right:10px;" />
+<img align="left" alt="C++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="C++" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="C++" width="50px" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" style="padding-right:10px;" />
 <img align="left" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="padding-right:10px;" />
-<img align="left" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="padding-right:10px;" />
+<img align="left" alt="C++" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="padding-right:10px;" />
 <br />
 <br />
 
