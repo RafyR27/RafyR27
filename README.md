@@ -19,5 +19,5 @@
 ### Connect with me:
 
 [![website](./img/instagram-light.svg)](https://instagram.com/rafyr27#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/rafyr27#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/muhamad-rafy-ramadhan)
 
