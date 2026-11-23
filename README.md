@@ -10,7 +10,6 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="C++" width="30px" src="https://www.logoshape.com/wp-content/uploads/2025/03/Next_Js_Vector_Logo.png" style="padding-right:10px;" />
 <img align="left" alt="React" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="padding-right:10px;" />
 <br />
